@@ -1,0 +1,33 @@
+2025-06-03T01:47:05.292343|POKE_STATS_SERVICE|SYSTEM|startup Service starting on port 5002
+2025-06-03T01:47:05.785908|POKE_STATS_SERVICE|SYSTEM|startup Service starting on port 5002
+2025-06-03T01:47:37.739105|POKE_STATS_SERVICE|GET_POKEMON_STATS Started - Pokemon: pikachu
+2025-06-03T01:47:37.739454|POKE_STATS_SERVICE|GET_POKEMON_STATS|Error - Pokemon: pikachu - Latency: 0.02ms - Error: 'StatsHandler' object has no attribute '_load_stats'
+2025-06-03T01:47:37.739768|POKE_STATS_SERVICE|GET_POKEMON_STATS Not Found - Pokemon: pikachu - Latency: 0.65ms
+2025-06-03T01:50:55.832006|POKE_STATS_SERVICE|SYSTEM|startup Service starting on port 5002
+2025-06-03T01:50:56.395181|POKE_STATS_SERVICE|SYSTEM|startup Service starting on port 5002
+2025-06-03T01:51:18.676308|POKE_STATS_SERVICE|GET_POKEMON_STATS Started - Pokemon: pikachu
+2025-06-03T01:51:18.676828|POKE_STATS_SERVICE|GET_POKEMON_STATS|Error - Pokemon: pikachu - Latency: 0.02ms - Error: 'StatsHandler' object has no attribute '_load_stats'
+2025-06-03T01:51:18.677139|POKE_STATS_SERVICE|GET_POKEMON_STATS Not Found - Pokemon: pikachu - Latency: 0.82ms
+2025-06-03T01:51:35.154242|POKE_STATS_SERVICE|GET_POKEMON_STATS Started - Pokemon: Pikachu
+2025-06-03T01:51:35.154737|POKE_STATS_SERVICE|GET_POKEMON_STATS|Error - Pokemon: Pikachu - Latency: 0.02ms - Error: 'StatsHandler' object has no attribute '_load_stats'
+2025-06-03T01:51:35.155040|POKE_STATS_SERVICE|GET_POKEMON_STATS Not Found - Pokemon: Pikachu - Latency: 0.79ms
+2025-06-03T01:52:38.732891|POKE_STATS_SERVICE|HEALTH_CHECK Started
+2025-06-03T01:52:38.733421|POKE_STATS_SERVICE|HEALTH_CHECK Failed - Latency: 0.49ms - Stats CSV not found at /home/ronaldo/Escritorio/ArquiSoft/Tarea10/ProyectoApiPokemon/services/data/Poke_stats.csv
+2025-06-03T01:54:04.083961|POKE_STATS_SERVICE|GET_POKEMON_STATS Started - Pokemon: pikachu
+2025-06-03T01:54:04.084371|POKE_STATS_SERVICE|GET_POKEMON_STATS|Error - Pokemon: pikachu - Latency: 0.02ms - Error: 'StatsHandler' object has no attribute '_load_stats'
+2025-06-03T01:54:04.084637|POKE_STATS_SERVICE|GET_POKEMON_STATS Not Found - Pokemon: pikachu - Latency: 0.67ms
+2025-06-03T01:54:26.194025|POKE_STATS_SERVICE|SYSTEM|startup Service starting on port 5002
+2025-06-03T01:54:26.710100|POKE_STATS_SERVICE|SYSTEM|startup Service starting on port 5002
+2025-06-03T01:54:37.258494|POKE_STATS_SERVICE|GET_POKEMON_STATS Started - Pokemon: pikachu
+2025-06-03T01:54:37.258886|POKE_STATS_SERVICE|GET_POKEMON_STATS|Error - Pokemon: pikachu - Latency: 0.02ms - Error: 'StatsHandler' object has no attribute '_load_stats'
+2025-06-03T01:54:37.259194|POKE_STATS_SERVICE|GET_POKEMON_STATS Not Found - Pokemon: pikachu - Latency: 0.69ms
+2025-06-03T01:58:06.978085|POKE_STATS_SERVICE|SYSTEM|startup Service starting on port 5002
+2025-06-03T01:58:07.634021|POKE_STATS_SERVICE|SYSTEM|startup Service starting on port 5002
+2025-06-03T01:58:10.325779|POKE_STATS_SERVICE|GET_POKEMON_STATS Started - Pokemon: pikachu
+2025-06-03T01:58:10.326280|POKE_STATS_SERVICE|FILE_NOT_FOUND|Path: /home/ronaldo/Escritorio/ArquiSoft/Tarea10/ProyectoApiPokemon/services/data/Poke_stats.csv
+2025-06-03T01:58:10.326581|POKE_STATS_SERVICE|GET_POKEMON_STATS Not Found - Pokemon: pikachu - Latency: 0.79ms
+2025-06-03T02:00:49.720014|POKE_STATS_SERVICE|SYSTEM|startup Service starting on port 5002
+2025-06-03T02:00:53.904594|POKE_STATS_SERVICE|GET_POKEMON_STATS Started - Pokemon: pikachu
+2025-06-03T02:00:53.916678|POKE_STATS_SERVICE|LOAD_STATS|Success loading CSV - Rows: 800 - Latency: 11.72ms
+2025-06-03T02:00:53.922626|POKE_STATS_SERVICE|GET_POKEMON_STATS|Found stats for pikachu - Rows: 1 - Latency: 17.65ms
+2025-06-03T02:00:53.931588|POKE_STATS_SERVICE|GET_POKEMON_STATS Completed - Pokemon: pikachu - Rows: 1 - Latency: 20.91ms

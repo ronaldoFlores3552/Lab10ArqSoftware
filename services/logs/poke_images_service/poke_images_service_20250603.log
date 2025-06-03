@@ -1,0 +1,6 @@
+2025-06-03T01:27:04.643065|POKE_IMAGES_SERVICE|SYSTEM|startup Service starting on port 5003
+2025-06-03T01:27:04.873562|POKE_IMAGES_SERVICE|SYSTEM|startup Service starting on port 5003
+2025-06-03T01:27:29.412567|POKE_IMAGES_SERVICE|LOCAL_FILES|get_pokemon_images Started - Pokemon: pikachu
+2025-06-03T01:27:29.413445|POKE_IMAGES_SERVICE|LOCAL_FILES|_get_image_files Scanned directory - Path: /home/ronaldo/Escritorio/ArquiSoft/Tarea10/ProyectoApiPokemon/data/Poke_Img/Pikachu - Files: 6 - Scan Latency: 0.44ms
+2025-06-03T01:27:29.413679|POKE_IMAGES_SERVICE|LOCAL_FILES|get_pokemon_images_info Success - Pokemon: pikachu - Images: 6 - Latency: 0.74ms
+2025-06-03T01:27:29.413879|POKE_IMAGES_SERVICE|LOCAL_FILES|get_pokemon_images Completed - Pokemon: pikachu - Images: 6 - Latency: 1.31ms
