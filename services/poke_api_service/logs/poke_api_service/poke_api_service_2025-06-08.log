@@ -1,0 +1,6 @@
+2025-06-08T04:03:10.321240|POKE_API_SERVICE|SYSTEM|startup Service starting on port 5001
+2025-06-08T04:03:10.614769|POKE_API_SERVICE|SYSTEM|startup Service starting on port 5001
+2025-06-08T04:03:20.823736|POKE_API_SERVICE|EXTERNAL_API|get_pokemon Started - Pokemon: pikachu
+2025-06-08T04:03:20.824124|POKE_API_SERVICE|EXTERNAL_API|get_pokemon_data Started - URL: https://pokeapi.co/api/v2/pokemon/pikachu
+2025-06-08T04:03:21.183176|POKE_API_SERVICE|EXTERNAL_API|get_pokemon_data Success - Pokemon: pikachu - API Latency: 353.56ms
+2025-06-08T04:03:21.184454|POKE_API_SERVICE|EXTERNAL_API|get_pokemon Completed - Pokemon: pikachu - Latency: 360.71ms
